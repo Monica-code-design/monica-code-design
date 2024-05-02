@@ -1,7 +1,7 @@
 - Hi, I’m Monica 
 - I’m interested in software development & design
-- I’m currently learning JavaScript and React.js
-- I’m looking to collaborate on creative web application
+- I’m currently diving deeper into React.js
+- I’m looking to collaborate on creative web applications
 - My LinkedIn: https://www.linkedin.com/in/monica-reynaga
 - Fun Fact: I've learned Italian for 4 years
 
